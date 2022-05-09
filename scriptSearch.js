@@ -15,11 +15,7 @@ function search(array, x) {
         else {
             return middle
         }
-
-
-
     }
-
 }
 alert(search(array, 10))
 
